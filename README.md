@@ -23,6 +23,7 @@ A column for each of the following statistics: mean, median, variance, standard 
 ---
 **Create Bar Charts and Pie Charts**
 ![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/bar.png)
+
 ![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/pie.png)
 
 ---
@@ -33,6 +34,7 @@ A column for each of the following statistics: mean, median, variance, standard 
 ---
 
 **Create a Line Plot and a Scatter Plot**
+
 ![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/line.png)
 
 ---
