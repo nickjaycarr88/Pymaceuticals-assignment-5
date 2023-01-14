@@ -19,20 +19,20 @@ A row for each drug regimen. These regimen names should be contained in the inde
 
 A column for each of the following statistics: mean, median, variance, standard deviation, and SEM of the tumour volume.
 
-![Link Image]()
+![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/summary_statistics.png)
 ---
 **Create Bar Charts and Pie Charts**
-![Link Image]()
-![Link Image]()
+![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/bar.png)
+![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/pie.png)
 
 ---
 
 **Calculate Quartiles, Find Outliers, and Create a Box Plot**
-![Link Image]()
+![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/box.png)
 
 ---
 
 **Create a Line Plot and a Scatter Plot**
-![Link Image]()
+![Link Image](https://github.com/nickjaycarr88/Pymaceuticals-assignment-5/blob/main/images/line.png)
 
 ---
